@@ -1,0 +1,17 @@
+// 1. Variables: Las variables guardan informacion que va ser utilizada mas adelante
+
+
+// 2. Strings: Es un conjunto de caracteres que se encuentran dentro de comillas.
+
+
+// 3. Funciones (argumentos, return): son objetos que pueden realizar una tarea o calcular un valor. 
+
+// Un argumento, es un valor que se pasa cuando se llama a una funcion
+
+// La declaracion return devuelve algun valor especifico, que no es el predeterminado
+
+
+// 4. Declaraciones if: Es un bloque de codigo, que se ejecuta cuando una condicion es considerada verdadera (truthy).
+
+
+// 5. Valores booleanos (true, false): Es un tipo de dato que contiene dos valores, verdadero o falso.
