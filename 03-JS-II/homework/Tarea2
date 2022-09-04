@@ -1,0 +1,10 @@
+for:
+    For es un tipo de bucle que sirve para realizar tareas repetitivas con base en una condicion. El loop o bucle continua ejecutandose hasta que la condicion se vuelva false.
+&&, ||, !
+    Se tratan de operadores logicos que comparan dos expresiones. Compara valores booleanos (true o false) y regresa valores booleanos.
+    
+    Operador || (OR). Compara dos expresiones, si una es verdadera, regresa valor como true. Ambas expresiones pueden ser verdaderas, pero solo requiere que una de ellas sea verdadera para que el resultado sea true o verdadero.
+
+    Operador && (AND). Compara dos expresiones, es necesario que ambas expresiones sean verdaderas para que el resultado sea verdadero. Si una de ellas no se cumple, el resultado sera false.
+
+    ! (NOT) Este operador no realiza ninguna comparacion, se utiliza para devolver el valor contrario.
